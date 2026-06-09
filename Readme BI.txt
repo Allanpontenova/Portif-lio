@@ -14,5 +14,5 @@ Conceito de Estoque & Carteira
 Gestão de Estoque: Alterei os diversos status de estoque da distribuidora para, estoque operacional, que inclui todos os status menos o de avaria (necessário para a visão do atacado do real valor dentro do cd) e estoque sem pedido (onde eles podem aproveitar para cobrir a ruptura imediata sem precisar negociar com a indústria)
 Carteira de Pedidos: Consolidei os diversos status em apenas 3: pedidos sem estoque para atender, pedidos na logística, pedidos faturados últimas 3 datas(importante pois foi faturado, saiu do sistema da distribuidora, mas não entrou ainda no atacado, devido a necessidade de agendamento da nota 2 dias antes da entrega)
 
- Além disso adicionei diversas ferramentas de conforto na navegação.
+Além disso adicionei diversas ferramentas de conforto na navegação como o usuário clicar no gráfico no dia específico e ter pode acessar as saídas e entradas selecionadas.
 
